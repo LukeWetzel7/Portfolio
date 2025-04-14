@@ -1,0 +1,788 @@
+<svg width="1698" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" style="">
+    <rect class="overlay" width="1698" height="800" fill="none"/>
+    <g class="main">
+        <g class="layer nodes">
+            <circle fill="#99ccff" class="node source" r="16.838950781056475"
+                transform="translate(993.7915044433132,128.12949738530017)"/>
+            <circle fill="#99ccff" class="node target" r="11.4749371855331"
+                transform="translate(984.219694071031,36.57235278659914)"/>
+            <circle fill="#99ccff" class="node source" r="16.838950781056475"
+                transform="translate(1095.6813754067803,296.94786853075607)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(1164.3847903650512,410.71695271544263)"/>
+            <circle fill="#99ccff" class="node target" r="20"
+                transform="translate(915.8656583875734,196.56446576206508)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(1216.1279970899236,302.4595151784482)"/>
+            <circle fill="#99ccff" class="node target" r="13.00346251136008"
+                transform="translate(1027.0851137538734,61.58760458212532)"/>
+            <circle fill="#99ccff" class="node target" r="13.00346251136008"
+                transform="translate(992.111570937838,227.95141913181874)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(1207.8793056003656,366.7167621820041)"/>
+            <circle fill="#99ccff" class="node source" r="20"
+                transform="translate(733.7720711081524,232.2692252223493)"/>
+            <circle fill="#99ccff" class="node target" r="13.00346251136008"
+                transform="translate(721.6311122780962,330.12020020082025)"/>
+            <circle fill="#99ccff" class="node target" r="17.949874371066198"
+                transform="translate(590.3422072453502,344.13504998958297)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(607.4321977307511,263.6860976600118)"/>
+            <circle fill="#99ccff" class="node target" r="13.00346251136008"
+                transform="translate(685.5385259764089,114.35700042933485)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(693.4040955980427,173.7110153402067)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(619.3790082580022,160.99565644885286)"/>
+            <circle fill="#99ccff" class="node source" r="9.739982995627258"
+                transform="translate(622.075739852487,404.891009630903)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(495.53377603166587,467.1897342482887)"/>
+            <circle fill="#99ccff" class="node target" r="13.00346251136008"
+                transform="translate(758.5423022997161,291.713000551533)"/>
+            <circle fill="#99ccff" class="node source" r="15.65613636215197"
+                transform="translate(827.9758980065437,307.7571546781711)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(638.9139815398792,217.9043132776194)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(943.5293492152109,388.1908156579291)"/>
+            <circle fill="#99ccff" class="node source" r="5"
+                transform="translate(362.21312869643066,1079.1153961955224)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(430.25332066381293,1103.7026740519884)"/>
+            <circle fill="#99ccff" class="node source" r="5"
+                transform="translate(500.2259623355583,1121.8072572679082)"/>
+            <circle fill="#99ccff" class="node source" r="15.65613636215197"
+                transform="translate(583.0036959734234,490.21214942256313)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(608.1160551820544,624.4833132384034)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(540.1440335256273,591.5052807043315)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(486.8452487029774,621.8807860472828)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(554.5900030085281,653.4017876811574)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(857.9597744552163,402.9741423146123)"/>
+            <circle fill="#99ccff" class="node source" r="16.838950781056475"
+                transform="translate(756.976866212208,123.06886700045038)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(733.5277722691449,-6.655989783316329)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(792.7239172952725,18.30632535268228)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(768.1892449477659,-75.85280984863925)"/>
+            <circle fill="#99ccff" class="node source" r="15.65613636215197"
+                transform="translate(864.2242769094571,49.56368583894556)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(648.4871061757219,9.985819269447347)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(880.8444725201209,-107.97505744898814)"/>
+            <circle fill="#99ccff" class="node target" r="7.682006797761688"
+                transform="translate(679.8854425886095,37.2968339560835)"/>
+            <circle fill="#99ccff" class="node source" r="7.682006797761688"
+                transform="translate(817.0878862199975,-193.40271511359552)"/>
+            <circle fill="#99ccff" class="node source" r="19.000612027271742"
+                transform="translate(780.828329130564,380.938240400455)"/>
+            <circle fill="#99ccff" class="node source" r="9.739982995627258"
+                transform="translate(1044.8843809035939,176.42824645361043)"/>
+            <circle fill="#99ccff" class="node source" r="9.739982995627258"
+                transform="translate(345.07032236400005,420.209577627842)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(248.15748066978858,512.2268975001466)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(220.64958508806603,393.82496050335556)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(212.69219330179567,458.4985489388721)"/>
+            <circle fill="#99ccff" class="node source" r="11.4749371855331"
+                transform="translate(1038.5755843511292,128.07803656381924)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(892.2673618020256,492.92603337909793)"/>
+            <circle fill="#99ccff" class="node source" r="5"
+                transform="translate(459.850713581189,359.8088621144939)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(465.1193659869996,562.719712783382)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(750.8192764722926,505.2280972728448)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(856.2065754524963,543.9582549120265)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(822.2708784385441,491.3713013048123)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(790.1245664459104,551.1554920684512)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(664.6863960674689,299.6424430836861)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(817.3348048916521,207.34215064533032)"/>
+            <circle fill="#99ccff" class="node source" r="7.682006797761688"
+                transform="translate(543.4067236143555,222.8042006859714)"/>
+            <circle fill="#99ccff" class="node source" r="14.385355035595607"
+                transform="translate(541.3205093036652,129.97032433117727)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(428.18067758114216,45.76362936964517)"/>
+            <circle fill="#99ccff" class="node target" r="5"
+                transform="translate(401.9316781434354,105.49012935575905)"/>
+        </g>
+        <g class="layer labels">
+            <g class="anchor-node source"
+                transform="translate(1004.4990373709443,119.25098675008383)">
+                <text transform="translate(-12.78986567906579,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The Odyssey of
+                    Homer</text>
+            </g>
+            <g class="anchor-node target" transform="translate(994.364406598696,21.3114708198421)">
+                <text transform="translate(-6.96262785674546,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Poetry</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(1111.254798840947,299.33643936036435)">
+                <text transform="translate(-0.7329014963947607,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The successors of
+                    Homer</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1177.9553097262146,420.26928145127863)">
+                <text transform="translate(-3.1527061290711718,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hesiod</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(927.9782694190574,192.66049882511516)">
+                <text transform="translate(-2.1560818182344774,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Epic poetry,
+                    Greek</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1233.6994995857822,301.3700117148944)">
+                <text transform="translate(-0.05278094043395783,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hexameter</text>
+            </g>
+            <g class="anchor-node target" transform="translate(1042.924641981689,49.39264912196029)">
+                <text transform="translate(-13.071261492123826,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Translations into
+                    English</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1006.7271758281158,230.36026530593142)">
+                <text transform="translate(-0.3221017925627387,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Odysseus</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1224.938499315408,371.71256994676946)">
+                <text transform="translate(-1.5986018733806016,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Homeric
+                    hymns</text>
+            </g>
+            <g class="anchor-node source" transform="translate(738.490920784903,223.74065348252532)">
+                <text transform="translate(-109.30234358161691,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">From agent to
+                    spectator: witnessing the aftermath in ancient Greek epic and tragedy</text>
+            </g>
+            <g class="anchor-node target" transform="translate(720.117578950023,341.4067789143062)">
+                <text transform="translate(-79.79349163489401,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Criticism and
+                    interpretation</text>
+            </g>
+            <g class="anchor-node target" transform="translate(577.0321359881132,349.0825461281546)">
+                <text transform="translate(-32.90633464182516,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Homer</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(593.3269368487172,264.22171594027645)">
+                <text transform="translate(-156.15209339148032,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Agent
+                    (Philosophy) in literature</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(680.1253512358305,100.77652584800558)">
+                <text transform="translate(-15.087234685130401,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Iliad</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(690.2016350456176,162.82161903503152)">
+                <text transform="translate(-42.13705761896834,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Iliad
+                    (Homer)</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(607.8737084678355,149.83954257281346)">
+                <text transform="translate(-99.84499470865069,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Spectators in
+                    literature</text>
+            </g>
+            <g class="anchor-node source" transform="translate(615.3175234501955,415.8418308622647)">
+                <text transform="translate(-180.47192580121637,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Folk tale,
+                    fiction, and saga in the Homeric epics</text>
+            </g>
+            <g class="anchor-node target" transform="translate(482.0440741860816,473.5735639164053)">
+                <text transform="translate(-74.03371671532837,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Greek
+                    literature</text>
+            </g>
+            <g class="anchor-node target" transform="translate(768.1110987377563,294.2772616363849)">
+                <text transform="translate(-1.7972925721046014,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">History and
+                    criticism</text>
+            </g>
+            <g class="anchor-node source" transform="translate(840.6827730801954,310.5096638634284)">
+                <text transform="translate(-1.2660759615584103,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Nine essays on
+                    Homer</text>
+            </g>
+            <g class="anchor-node target" transform="translate(627.9891830038448,212.2053950454242)">
+                <text transform="translate(-106.33840561756766,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Greek drama
+                    (Tragedy)</text>
+            </g>
+            <g class="anchor-node target" transform="translate(958.4580399208228,395.421989232868)">
+                <text transform="translate(-2.9469665908840312,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">In
+                    literature</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(353.49190612064467,1089.7654061668911)">
+                <text transform="translate(-180.1859026462642,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Odyssey ::
+                    Homer's Epic Journey of Odysseus</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(426.0139026721033,1116.6031841337592)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"/>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(500.95279885316086,1135.4774392554164)">
+                <text transform="translate(-147.87015533526082,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Odyssey |
+                    Summary, Characters, Meaning, &amp; Facts | Britannica</text>
+            </g>
+            <g class="anchor-node source" transform="translate(576.918724330513,501.89216716467433)">
+                <text transform="translate(-107.50433925041209,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Reading Homer:
+                    film and text</text>
+            </g>
+            <g class="anchor-node target" transform="translate(609.9319469381396,640.7894167281014)">
+                <text transform="translate(-20.829576556742353,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Influence</text>
+            </g>
+            <g class="anchor-node target" transform="translate(534.2180429117993,604.3332978202998)">
+                <text transform="translate(-56.486541629148526,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Motion
+                    pictures</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(475.76992975063945,636.8612184610046)">
+                <text transform="translate(-117.6184876219277,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Mythology in
+                    motion pictures</text>
+            </g>
+            <g class="anchor-node target" transform="translate(550.3756825051235,671.5833295610439)">
+                <text transform="translate(-54.26100635660568,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Plots, themes,
+                    etc</text>
+            </g>
+            <g class="anchor-node target" transform="translate(869.6205862235759,411.231059317819)">
+                <text transform="translate(-3.0972671949906814,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Greece</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(762.1124768949478,110.66388154206567)">
+                <text transform="translate(-78.73298695753134,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Rediscovering
+                    Homer: inside the origins of the epic</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(731.7693953231153,-24.312332539752504)">
+                <text transform="translate(-48.69919302530313,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Folk poetry,
+                    Greek</text>
+            </g>
+            <g class="anchor-node target" transform="translate(798.0215069212675,3.070876902334362)">
+                <text transform="translate(-54.180570104378326,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">History and
+                    criticism Theory, etc</text>
+            </g>
+            <g class="anchor-node target" transform="translate(768.3682408536924,-94.5890955415681)">
+                <text transform="translate(-20.443475334372767,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Odyssey</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(873.0420543374901,36.373618209814026)">
+                <text transform="translate(-9.569576159029529,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The Iliad</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(638.6842346940387,-7.655982954698743)">
+                <text transform="translate(-29.35058542724726,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Achilles</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(888.3507285552682,-124.51093716562639)">
+                <text transform="translate(-16.342264302738208,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Epic
+                    poetry</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(675.6481524593185,22.121925200574708)">
+                <text transform="translate(-34.46211159860994,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Trojan War</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(818.922483327488,-211.48324996489325)">
+                <text transform="translate(-89.06685217052183,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The Odyssey Full
+                    Text - Book I - Owl Eyes</text>
+            </g>
+            <g class="anchor-node source" transform="translate(785.626508664687,392.360992096489)">
+                <text transform="translate(-133.94417895868594,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The stranger's
+                    welcome: oral theory and the aesthetics of the Homeric hospitality scene</text>
+            </g>
+            <g class="anchor-node source" transform="translate(1063.068050120754,175.1828698922484)">
+                <text transform="translate(-0.07286364149406362,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The
+                    Odyssey</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(330.2779759629068,422.53117779214506)">
+                <text transform="translate(-445.63282281666,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The
+                    OdysseyRendered into English prose for the use of those who cannot read the
+                    original</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(234.00540702726948,520.9242769415013)">
+                <text transform="translate(-210.27572117539327,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Epic poetry,
+                    Greek -- Translations into English</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(204.03615049531072,391.79618023818966)">
+                <text transform="translate(-170.76391632919132,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Homer --
+                    Translations into English</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(195.73874727265184,462.27319983048596)">
+                <text transform="translate(-245.2935818190295,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Odysseus, King of
+                    Ithaca (Mythological character)</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(1056.6599922852215,120.57895404961891)">
+                <text transform="translate(-2.3363010313093375,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The
+                    odyssey</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(906.2111491723585,505.33289915000296)">
+                <text transform="translate(-12.243762154166392,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Aesthetics,
+                    Ancient</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(444.35532078868096,360.2244519543939)">
+                <text transform="translate(-100.44872431089885,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The songs of
+                    Homer</text>
+            </g>
+            <g class="anchor-node target" transform="translate(451.33710854788,572.0344339415105)">
+                <text transform="translate(-95.74982091955064,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Troy (Motion
+                    picture)</text>
+            </g>
+            <g class="anchor-node target" transform="translate(749.207503572427,519.6863128800989)">
+                <text transform="translate(-64.65154806273456,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hospitality in
+                    literature</text>
+            </g>
+            <g class="anchor-node target" transform="translate(866.0107898038527,561.2045384386875)">
+                <text transform="translate(-16.907181036584895,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Oral
+                    tradition</text>
+            </g>
+            <g class="anchor-node target" transform="translate(829.0780415670952,504.0305347639211)">
+                <text transform="translate(-30.857716746473496,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Oral-formulaic
+                    analysis</text>
+            </g>
+            <g class="anchor-node target" transform="translate(793.2320848019467,569.5524612292195)">
+                <text transform="translate(-46.099909443436985,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Outsiders in
+                    literature</text>
+            </g>
+            <g class="anchor-node target" transform="translate(655.9260906485772,306.0221862192334)">
+                <text transform="translate(-103.92406887555308,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Witnesses in
+                    literature</text>
+            </g>
+            <g class="anchor-node target" transform="translate(827.6687815521227,200.698623129177)">
+                <text transform="translate(-11.253841308976417,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Criticism,
+                    interpretation, etc</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(526.6937677904277,219.05743943536731)">
+                <text transform="translate(-219.23957662176286,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">A companion to
+                    the Iliad: for English readers</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(527.1569673815998,119.07074157162373)">
+                <text transform="translate(-344.80818655370143,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The war that
+                    killed Achilles: the true story of Homer's Iliad and the Trojan War</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(415.1566065248019,32.836098915981154)">
+                <text transform="translate(-94.73804189048633,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Literature and
+                    the war</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(385.67603182125345,98.26749731294473)">
+                <text transform="translate(-78.39829585531074,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">War in
+                    literature</text>
+            </g>
+        </g>
+        <g class="layer links">
+            <path class="link"
+                d="M993.7915044433132,128.12949738530017L984.219694071031,36.57235278659914"
+                href="#path0_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1095.6813754067803,296.94786853075607L1164.3847903650512,410.71695271544263"
+                href="#path2_3"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1095.6813754067803,296.94786853075607L915.8656583875734,196.56446576206508"
+                href="#path2_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M993.7915044433132,128.12949738530017L915.8656583875734,196.56446576206508"
+                href="#path0_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1095.6813754067803,296.94786853075607L1216.1279970899236,302.4595151784482"
+                href="#path2_5"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M993.7915044433132,128.12949738530017L1027.0851137538734,61.58760458212532"
+                href="#path0_6"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M993.7915044433132,128.12949738530017L992.111570937838,227.95141913181874"
+                href="#path0_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1095.6813754067803,296.94786853075607L1207.8793056003656,366.7167621820041"
+                href="#path2_8"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L721.6311122780962,330.12020020082025"
+                href="#path9_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L590.3422072453502,344.13504998958297"
+                href="#path9_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L607.4321977307511,263.6860976600118"
+                href="#path9_12"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L685.5385259764089,114.35700042933485"
+                href="#path9_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L693.4040955980427,173.7110153402067"
+                href="#path9_14"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L619.3790082580022,160.99565644885286"
+                href="#path9_15"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M622.075739852487,404.891009630903L495.53377603166587,467.1897342482887"
+                href="#path16_17"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L758.5423022997161,291.713000551533"
+                href="#path9_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L758.5423022997161,291.713000551533"
+                href="#path19_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L638.9139815398792,217.9043132776194"
+                href="#path9_20"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M622.075739852487,404.891009630903L590.3422072453502,344.13504998958297"
+                href="#path16_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L590.3422072453502,344.13504998958297"
+                href="#path19_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L943.5293492152109,388.1908156579291"
+                href="#path19_21"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L992.111570937838,227.95141913181874"
+                href="#path19_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M362.21312869643066,1079.1153961955224L430.25332066381293,1103.7026740519884"
+                href="#path22_23"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M500.2259623355583,1121.8072572679082L430.25332066381293,1103.7026740519884"
+                href="#path24_23"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L721.6311122780962,330.12020020082025"
+                href="#path25_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L590.3422072453502,344.13504998958297"
+                href="#path25_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L608.1160551820544,624.4833132384034"
+                href="#path25_26"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L540.1440335256273,591.5052807043315"
+                href="#path25_27"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L486.8452487029774,621.8807860472828"
+                href="#path25_28"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L554.5900030085281,653.4017876811574"
+                href="#path25_29"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L857.9597744552163,402.9741423146123"
+                href="#path19_30"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L758.5423022997161,291.713000551533"
+                href="#path31_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L915.8656583875734,196.56446576206508"
+                href="#path19_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L915.8656583875734,196.56446576206508"
+                href="#path9_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L733.5277722691449,-6.655989783316329"
+                href="#path31_32"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L792.7239172952725,18.30632535268228"
+                href="#path31_33"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L590.3422072453502,344.13504998958297"
+                href="#path31_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L685.5385259764089,114.35700042933485"
+                href="#path31_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L768.1892449477659,-75.85280984863925"
+                href="#path31_34"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L648.4871061757219,9.985819269447347"
+                href="#path35_36"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L880.8444725201209,-107.97505744898814"
+                href="#path35_37"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L915.8656583875734,196.56446576206508"
+                href="#path35_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L685.5385259764089,114.35700042933485"
+                href="#path35_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L984.219694071031,36.57235278659914"
+                href="#path35_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L1027.0851137538734,61.58760458212532"
+                href="#path35_6"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M864.2242769094571,49.56368583894556L679.8854425886095,37.2968339560835"
+                href="#path35_38"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M817.0878862199975,-193.40271511359555L880.8444725201209,-107.97505744898814"
+                href="#path39_37"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M817.0878862199975,-193.40271511359555L768.1892449477659,-75.85280984863925"
+                href="#path39_34"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L915.8656583875734,196.56446576206508"
+                href="#path31_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M827.9758980065437,307.7571546781711L721.6311122780962,330.12020020082025"
+                href="#path19_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L721.6311122780962,330.12020020082025"
+                href="#path40_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M756.976866212208,123.06886700045038L721.6311122780962,330.12020020082025"
+                href="#path31_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1044.8843809035939,176.42824645361043L915.8656583875734,196.56446576206508"
+                href="#path41_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1044.8843809035939,176.42824645361043L992.111570937838,227.95141913181874"
+                href="#path41_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1044.8843809035939,176.42824645361043L1027.0851137538734,61.58760458212532"
+                href="#path41_6"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M345.07032236400005,420.209577627842L248.15748066978858,512.2268975001466"
+                href="#path42_43"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M345.07032236400005,420.209577627842L220.64958508806603,393.82496050335556"
+                href="#path42_44"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M345.07032236400005,420.209577627842L212.69219330179567,458.4985489388721"
+                href="#path42_45"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1038.5755843511292,128.07803656381924L915.8656583875734,196.56446576206508"
+                href="#path46_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1038.5755843511292,128.07803656381924L992.111570937838,227.95141913181874"
+                href="#path46_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1038.5755843511292,128.07803656381924L984.219694071031,36.57235278659914"
+                href="#path46_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1038.5755843511292,128.07803656381924L1027.0851137538734,61.58760458212532"
+                href="#path46_6"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L892.2673618020256,492.92603337909793"
+                href="#path40_47"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M459.850713581189,359.8088621144939L590.3422072453502,344.13504998958297"
+                href="#path48_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M583.0036959734234,490.21214942256313L465.1193659869996,562.719712783382"
+                href="#path25_49"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L915.8656583875734,196.56446576206508"
+                href="#path40_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L857.9597744552163,402.9741423146123"
+                href="#path40_30"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L758.5423022997161,291.713000551533"
+                href="#path40_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L590.3422072453502,344.13504998958297"
+                href="#path40_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L750.8192764722926,505.2280972728448"
+                href="#path40_50"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L856.2065754524963,543.9582549120265"
+                href="#path40_51"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L822.2708784385441,491.3713013048123"
+                href="#path40_52"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M780.828329130564,380.938240400455L790.1245664459104,551.1554920684512"
+                href="#path40_53"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L664.6863960674689,299.6424430836861"
+                href="#path9_54"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.7720711081524,232.2692252223493L817.3348048916521,207.34215064533032"
+                href="#path9_55"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M622.075739852487,404.891009630903L758.5423022997161,291.713000551533"
+                href="#path16_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M543.4067236143555,222.8042006859714L685.5385259764089,114.35700042933485"
+                href="#path56_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L648.4871061757219,9.985819269447347"
+                href="#path57_36"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L590.3422072453502,344.13504998958297"
+                href="#path57_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L685.5385259764089,114.35700042933485"
+                href="#path57_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L428.18067758114216,45.76362936964517"
+                href="#path57_58"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L679.8854425886095,37.2968339560835"
+                href="#path57_38"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M541.3205093036652,129.97032433117727L401.9316781434354,105.49012935575905"
+                href="#path57_59"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M543.4067236143555,222.8042006859714L590.3422072453502,344.13504998958297"
+                href="#path56_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"
+            />
+        </g>
+    </g>
+</svg>
